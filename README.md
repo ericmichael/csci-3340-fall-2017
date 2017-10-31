@@ -31,7 +31,7 @@ The most important takeaway is for you to learn how to work in a modern software
 
 # Architecture of a Web Startup / Building an MVP
 
-##Popular Software Business Models
+## Popular Software Business Models
 
 * **SaaS - Software as a service.** You sell access to the software, not the software itself. Software is hosted and users access it via a thin client.
   * Examples: Dropbox, Slack
@@ -84,7 +84,7 @@ These are used in combination with HTML/CSS to make a webpage interactive and ha
 * Python
 * Ruby
 
-##Popular Backend Frameworks
+## Popular Backend Frameworks
 
 Frameworks do a lot of the heavy lifting and tend to have reusable code to quickly make web based software.
 
@@ -237,7 +237,7 @@ Unfortunately, this would apply to all `<h1>` tags we would ever use. We can ins
 
 # Bootstrap
 
-##What is Bootstrap
+## What is Bootstrap
 
 Bootstrap is a pre-designed mega stylesheet that allows you to build mobile-friendly websites and web applications without having to design a bunch of standard components. Many components like a grid, columns, buttons, fonts, etc all have pre-styled defaults that look pretty good.
 
@@ -536,12 +536,12 @@ end
    3. Given a Post class, how to write a route that displays a new form for a new Post
    4. Given a Post class, how to write a route that retrieves a form submission for a new Post and persists it to the database (assuming the Post class has been properly setup using DataMapper)
 10. Know Heroku
-    1. How to create a new server via command line
-    2. How to push a git repository to that new server
+   1. How to create a new server via command line
+   2. How to push a git repository to that new server
 
 # Appendix
 
-##Lean Startups
+## Lean Startups
 
 ### What is a startup?
 
